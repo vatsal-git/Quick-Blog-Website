@@ -1,1 +1,2 @@
-# Full-Blog-Website
+Language : HTML, CSS, JS
+Key Features : Functionality
